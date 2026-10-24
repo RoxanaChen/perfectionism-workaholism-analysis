@@ -18,4 +18,4 @@ Both perfectionism types were positively correlated with workaholism, about equa
 - `perfectionism_workaholism_presentation.pdf`: final presentation slides
 
 ## Team
-Group project by Roxana Chen, Anna Lin, Stephanie Castillo, Luke Yang, and Angelica Petrov
+Group project by Roxana Chen, Anna Lin, Stephanie Castillo, Luke Yang, and Angelica Petrov; analysis done by Roxana Chen
